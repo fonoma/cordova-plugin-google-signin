@@ -16,7 +16,6 @@
   "cordova": {
     "id": "com.devapps",
     "platforms": [
-      "android",
       "ios"
     ]
   },
@@ -32,11 +31,9 @@
     "Identity",
     "Authentication",
     "ecosystem:cordova",
-    "cordova-android",
     "cordova-ios"
   ],
   "platforms": [
-    "android",
     "ios"
   ],
   "license": "Apache"
